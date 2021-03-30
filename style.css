@@ -1,0 +1,214 @@
+<<<<<<< HEAD
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+nav{
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+    background: rgb(156, 156, 175);
+    top: 0;
+}
+ul{
+padding: 0;
+margin: 0;
+list-style: none; 
+}
+ li{
+     float: right;
+ }
+ a{
+     padding: 20px;
+     width: 100px;
+     display: block;
+     text-decoration: none;
+     color: #fff;
+     text-transform: uppercase;
+     font-weight: bold;
+
+ }
+ .logo{
+float: left;
+ }
+ #section1{
+height: 700px;
+width: 100%;
+display: inline-block;
+background: lightpink;
+background-image: url(img/Woman.jpg);
+ }
+
+ #section2{
+height: 700px;
+width: 100%;
+display: inline-block;
+background-image: url(img/CCC.jpg);
+}
+
+#section3{
+height: 700px;
+width: 100%;
+display: inline-block;
+background: green;
+background-image: url(img/TTT.jpg );
+}
+
+#section4{
+height: 700px;
+width: 100%;
+display: inline-block;
+background:black;
+background-image: url(img/bbb.jpg);
+}
+
+#section5{
+height: 700px;
+width: 100%;
+display: inline-block;
+background:yellow;
+}
+
+html{
+box-sizing: border-box;
+
+}
+.column{
+float: left;
+width: 33%;
+margin-bottom: 16px;
+padding: 0% 8px;
+}
+.card{
+box-shadow:0 4px 8px 0 yellow;
+margin: 8px;
+}
+.aboutsection{
+padding: 50px;
+text-align: center;
+background-image: url(img/CCC.jpg);
+color: white;
+}
+.container{
+padding: 0 16px;
+}
+
+.aboutsection h1{
+padding: 20rem;
+font-size: 5vh;
+
+
+=======
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+nav{
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+    background: rgb(156, 156, 175);
+    top: 0;
+}
+ul{
+padding: 0;
+margin: 0;
+list-style: none; 
+}
+ li{
+     float: right;
+ }
+ a{
+     padding: 20px;
+     width: 100px;
+     display: block;
+     text-decoration: none;
+     color: #fff;
+     text-transform: uppercase;
+     font-weight: bold;
+
+ }
+ .logo{
+float: left;
+ }
+ #section1{
+height: 700px;
+width: 100%;
+display: inline-block;
+background: lightpink;
+background-image: url(img/Woman.jpg);
+ }
+
+ #section2{
+height: 700px;
+width: 100%;
+display: inline-block;
+background-image: url(img/CCC.jpg);
+}
+
+#section3{
+height: 700px;
+width: 100%;
+display: inline-block;
+background: green;
+background-image: url(img/TTT.jpg );
+}
+
+#section4{
+height: 700px;
+width: 100%;
+display: inline-block;
+background:black;
+background-image: url(img/bbb.jpg);
+}
+
+#section5{
+height: 700px;
+width: 100%;
+display: inline-block;
+background:yellow;
+}
+
+html{
+box-sizing: border-box;
+
+}
+.column{
+float: left;
+width: 33%;
+margin-bottom: 16px;
+padding: 0% 8px;
+}
+.card{
+box-shadow:0 4px 8px 0 yellow;
+margin: 8px;
+}
+.aboutsection{
+padding: 50px;
+text-align: center;
+background-image: url(img/CCC.jpg);
+color: white;
+}
+.container{
+padding: 0 16px;
+}
+
+.aboutsection h1{
+padding: 20rem;
+font-size: 5vh;
+
+
+>>>>>>> 10f4a556ade6ce1ffe6ff6a9d205a888a8de83f0
+}
